@@ -10,13 +10,12 @@ LIS 2360:  Web Application Development
 (Montavious Thompson )
 
 ### Project Description:
-(In this lesson .)
+(In this lesson we learned how to create and use an API.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(  https://thompsonmon.github.io/lesson8 )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this assignment I learned about building an application using an API.)
+2. (In this assignment I learned about Parse JSON data from an HTTP response message.)
+3. (In this assignmentI learned about how to use Ajax methods and properties that allow the Client to send an HTTP Request and receive back an HTTP Response.)
